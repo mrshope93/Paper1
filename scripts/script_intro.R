@@ -47,13 +47,13 @@ log10(b)
 
 x <- 1:15
 
-x
+#x
 
-2^x
+#2^x
 
 y <- 2:16
 
-x+y
+sum_of_vectors <- x+y
 
 
 ##########Managing packages
