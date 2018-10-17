@@ -51,6 +51,10 @@ x
 
 2^x
 
+y <- 2:16
+
+x+y
+
 
 ##########Managing packages
 
